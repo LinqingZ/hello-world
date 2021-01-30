@@ -1,7 +1,7 @@
 ## my-prework-app
 
 ### App Description
-An App that clik on the button to change the text color
+An App that clik on the button to change the text color.
 
 ### App Walk-though
 <img src="http://g.recordit.co/TWKrRo5CS0.gif" width=200><br>
